@@ -1,6 +1,6 @@
 ### Hi! My name is Maria. I am a student of programming school 42 and math teacher 👩‍🏫
 
-🔭 I’m currently working on MiniRT (render simple Computer-Generated-Images)
+🔭 I’m currently working on Webserv
 
 🌱 I’m currently learning C and Python DS
 
