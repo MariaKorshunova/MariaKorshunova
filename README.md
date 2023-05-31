@@ -2,10 +2,10 @@
 
 Python DS, С, С++
 
-<a href="https://github.com/andydardgallard/seismic_fitness_visualisation" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"></a>
+<!-- <a href="https://github.com/andydardgallard/seismic_fitness_visualisation" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"></a>
 <a href="https://github.com/andydardgallard/21_School_CPP_Piscine" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="CPP"></a>
 <a href="https://github.com/andydardgallard/Crypto_Bitmex_Trading_Bot" target="_blank"><img src="https://img.icons8.com/color/python" alt="PYTHON"/></a>
-<img src="https://img.icons8.com/plasticine/48/000000/bash.png" alt="BASH"/> 
+<img src="https://img.icons8.com/plasticine/48/000000/bash.png" alt="BASH"/>  -->
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaKorshunova&langs_count=10&layout=compact)](https://github.com/MariaKorshunova/github-readme-stats)
