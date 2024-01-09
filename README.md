@@ -1,6 +1,6 @@
 ### Hi! My name is Maria. Math teacher, student of programming school 42  👩‍🏫
 
-Python DS, С, С++
+Python,  DS, С, Math
 
 <!-- <a href="https://github.com/andydardgallard/seismic_fitness_visualisation" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"></a>
 <a href="https://github.com/andydardgallard/21_School_CPP_Piscine" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="CPP"></a>
